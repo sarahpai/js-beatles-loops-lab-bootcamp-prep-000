@@ -25,12 +25,11 @@ function johnLennonFacts(facts){
 return newFacts;
 }
   
-  
+
   
   // do while loop
 function iLoveTheBeatles(n){
   var newNum = [];
-  var i = 0;
   do {
   newNum.push("I love the Beatles!")
    } while (i < 17);
