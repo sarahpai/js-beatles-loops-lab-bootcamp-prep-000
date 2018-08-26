@@ -33,7 +33,6 @@ function iLoveTheBeatles(n){
   var i = 0;
   do {
   newNum.push("I love the Beatles!")
-  i++;
    } while (i < 17);
 return newNum;
 }
